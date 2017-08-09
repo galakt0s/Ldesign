@@ -1,0 +1,115 @@
+/*
+body {
+    position: relative;
+    background-image: url("https://unsplash.it/2880");
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+
+div:hover {
+    white-space: nowrap;
+    background: black;
+    color: white;
+}
+.popup {
+    border: solid black 5px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left: -250px;
+    height: 250px;
+    background: white;
+
+}
+.line1 {
+    background: white;
+    width: 500px;
+    height: 80px;
+    border-bottom: solid black 2px;
+
+}
+.line2 {
+    text-align: justify;
+    background: white;
+    width: 500px;
+    height: 50px;
+    border-bottom: solid black 2px;
+
+}
+.line3 {
+    background: white;
+    width: 500px;
+    height:50px;
+    border-bottom: solid black 2px;
+    justify-content: center;
+}
+.line4 {
+    background: white;
+    width: 500px;
+    height: 50px;
+    justify-content: center;
+}
+.kiddo3 {
+    display: flex;
+
+  }
+
+.kiddo4 {
+    display: flex;
+    }
+
+.aside {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 300px;
+    height: 500px;
+    background: orange;
+}
+*/
+body {
+    position: relative
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    text-decoration: none;
+}
+.bark {
+    position: absolute;
+    top: 100px;
+    right: 50px;
+    width: 470px;
+}
+
+.bin {
+    position: absolute;
+    top: 380px;
+    left: 60px;
+
+}
+.elk {
+    position: absolute;
+    top: 430px;
+    left: 300px;
+}
+.marlen {
+    position: absolute;
+    top: 500px;
+    left: 570px;
+}
+
+.profilepic {
+
+    width:300px;
+    height:300px;
+}
